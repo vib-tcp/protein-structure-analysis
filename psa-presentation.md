@@ -859,6 +859,10 @@ Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.p
 
 ********
 
+
+TODO: ![](./img/figure1-mutatex.png)
+
+
 ## Exercise 7: In silico mutagenesis using MutateX
 
 1. Go to https://login.hpc.ugent.be and fill in your credentials
