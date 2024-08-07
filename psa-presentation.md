@@ -859,7 +859,34 @@ Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.p
 
 ********
 
-## Exercise 7: Study Protein-Ligand Interactions
+## Exercise 7: In silico mutagenesis using MutateX
+
+1. Go to https://login.hpc.ugent.be and fill in your credentials
+
+2a. If running for the first time: navigate and set up directories
+
+Copy the MutateX repository to your VSC_SCRATCH 
+`git clone https://github.com/abotzki/mutatex`
+
+2b. If directories already set up: navigate to the mutatex/ directory
+
+
+
+5. Open the terminal and swap to the debug cluster `donphan`
+
+Note that the terminal opens in your current directory. 
+
+Run the following command in the terminal `module swap cluster/donphan`.
+
+6. Submit your job, check progress, wait
+
+Run the following command in the terminal `sbatch mutatex-example.pbs`.
+
+
+
+
+
+## Exercise 8: Study Protein-Ligand Interactions
 
 ### Introduction
 
