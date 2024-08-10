@@ -103,7 +103,7 @@ This is the {{workshop_edition}} edition of this workshop.
 
 - The fifth session (2nd September 2024) is dedicated to Protein Structure Analysis and Visualisation.
 
-The presentation which goes alongside this material can be found [here](link).
+The presentation which goes alongside this material can be found [here](https://liascript.githib.io/course?https://raw.githubusercontent.com/vibbits/protein-structure-analysis/main/psa-presentation.md).
 
 ### Schedule
 
