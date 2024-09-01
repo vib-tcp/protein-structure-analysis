@@ -26,8 +26,8 @@ link:     style.css
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
-@tutor: Neuropixels
-@edition: 1st -->
+@tutor: course placeholder
+@edition: 5th -->
 
 # Protein Structure Analysis and Visualisation
 
