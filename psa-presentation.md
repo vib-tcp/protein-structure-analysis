@@ -861,7 +861,7 @@ Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.p
 
 Structures can be structurally aligned to achieve the best possible match between corresponding atoms. It is  possible to consider all atoms, or only a subset  (such as the Cα atoms).
 
-![MutateX: Deep mutational screen using FoldX ](img/mutatex-overview.png)
+![MutateX: Deep mutational screen using FoldX ](img/figure1-mutatex.svg)
 
 
 
