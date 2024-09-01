@@ -861,12 +861,16 @@ Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.p
 
 ## Computational deep mutational screen
 
-Structures can be structurally aligned to achieve the best possible match between corresponding atoms. It is  possible to consider all atoms, or only a subset  (such as the Cα atoms).
+                 --{{0}}
+Computational methods of predicting protein stability changes upon missense mutations are invaluable tools in high-throughput studies involving a large number of protein variants.
+Site saturation mutagenesis (SSM), or simply site saturation, is a random mutagenesis technique used in protein engineering, in which a single codon or set of codons is substituted with all possible amino acids at the position. There are many variants of the site saturation technique, from paired site saturation (saturating two positions in every mutant in the library) to scanning site saturation (performing a site saturation at every site in the protein, resulting in a library of size [20^(number of residues in the protein)] that contains every possible point mutant of the protein).
+
+We are exploring the tool MutateX as an example for computational site saturation mutagenesis experiments.
+
+![](img/12859_2023_5537_Fig1.jpg)
+[^1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10642056/)
 
 ![MutateX: Deep mutational screen using FoldX ](img/figure1-mutatex.svg)
-
-
-
 
 ## Exercise 7: Execute a deep mutational screen on the HPC using FoldX
 
