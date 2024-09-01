@@ -876,7 +876,12 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 - Open an interactive session on the login server via `Cluster` --> `login Shell Access`
 - Once you get the prompt, switch to your scratch folder by typing `cd $VSC_SCRATCH`
 - Copy two files from the `/tmp` folder to your scratch folder by typing `cp /tmp/mutatex-v1.sif .` and `cp /tmp/foldx_20241231 .`
-- With the subsequent command, we copy the necessary files from a remote repository to your scratch folder `git clone `
+- With the subsequent command, we copy the necessary files from a remote repository to your scratch folder `git clone https://github.com/vibbits/protein-structure-analysis.git`
+- Change the directory by `cd protein-structure-analysis`
+- Switch to the donphan debug cluster by executing `module swap cluster/donphan`
+- Run the deep screen by executing `sbatch mutatex-run.pbs`
+- Wait for max 30 min
+- Create a heatmap of the results in the analysis folder 
 
       {{1}}
 *******
