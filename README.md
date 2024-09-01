@@ -6,7 +6,7 @@ version:  1.0.0
 language: en
 narrator: UK English Female
 
-icon:     https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg
+icon: https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg
 
 comment:  This document shall provide an entire compendium and course on the
           development of Open-courSes with [LiaScript](https://LiaScript.github.io).
@@ -74,7 +74,7 @@ This is the 5th edition of this VIB workshop.
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 >
 >  1. [Exercises and solutions](https://github.com/vibbits/protein-structure-analysis)
->  2. [Slides](https://liascript.github.io/course?https://raw.githubusercontent.com/vibbits/protein-structure-analysis/main/psa-presentation.md))  
+>  2. [Slides](https://liascript.github.io/course?https://raw.githubusercontent.com/vibbits/protein-structure-analysis/main/psa-presentation.md) 
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Installations section below.
 >
