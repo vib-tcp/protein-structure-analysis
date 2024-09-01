@@ -12,11 +12,9 @@ logo: img/Logo.png
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/img/org.css
 link:     https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
-link: style.css
+link:     style.css
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
-
-debug: true
 
 -->
 
@@ -859,36 +857,35 @@ Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.p
 
 ********
 
-## In silico mutagenesis using MutateX
+## Computational deep mutational screen
 
-TODO: ![](./img/figure1-mutatex.png)
+Structures can be structurally aligned to achieve the best possible match between corresponding atoms. It is  possible to consider all atoms, or only a subset  (such as the Cα atoms).
 
-
-## Exercise 7: In silico mutagenesis using MutateX
-
-1. Go to https://login.hpc.ugent.be and fill in your credentials
-
-2a. If running for the first time: navigate and set up directories
-
-Copy the MutateX repository to your VSC_SCRATCH 
-`git clone https://github.com/abotzki/mutatex`
-
-2b. If directories already set up: navigate to the mutatex/ directory
+![MutateX: Deep mutational screen using FoldX ](img/mutatex-overview.png)
 
 
 
-5. Open the terminal and swap to the debug cluster `donphan`
 
-Note that the terminal opens in your current directory. 
+## Exercise 7: Execute a deep mutational screen on the HPC using FoldX
 
-Run the following command in the terminal `module swap cluster/donphan`.
+For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how to connect via the [Web portal](https://docs.hpc.ugent.be/macOS/web_portal/).
 
-6. Submit your job, check progress, wait
+- Login to the VSC HPC Tier-2 of the UGent at [https://login.hpc.ugent.be](https://login.hpc.ugent.be)
+- Open an interactive session on the login server via `Cluster` --> `login Shell Access`
+- Once you get the prompt, switch to your scratch folder by typing `cd $VSC_SCRATCH`
+- Copy two files from the `/tmp` folder to your scratch folder by typing `cp /tmp/mutatex-v1.sif .` and `cp /tmp/foldx_20241231 .`
+- With the subsequent command, we copy the necessary files from a remote repository to your scratch folder `git clone `
 
-Run the following command in the terminal `sbatch mutatex-example.pbs`.
+      {{1}}
+*******
 
+```
+swapaa #6.2:159 trp log true
+```
+Additional exercise: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1304567/
+Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.pdf
 
-
+********
 
 
 ## Exercise 8: Study Protein-Ligand Interactions
