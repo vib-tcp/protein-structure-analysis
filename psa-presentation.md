@@ -27,7 +27,7 @@ link:     style.css
 - Finding and visualising structures from the  Protein Data Bank
 - Comparing structures
 - Modelling mutations
-- Creating homology models
+- Creating models
 
 ## Sequences and Structures
 
@@ -638,64 +638,6 @@ Hints:
 
 Now, you have explored the ChimeraX interface and acquainted with basic visualisations. You have identified how you can visualise secondary structure elements, surfaces, and hydrogen bonds. And most importantly, you can create publication-ready figures using ChimeraX.
 
-## Protein folds are the structures of domains
-
-- Similarities in assembly of secondary structure elements
-
-- So not based on sequence like motifs but on 3D structure
-
-- Folds represent the shapes of protein domains
-
-!?[https://youtu.be/nJVkwdNm_HY](https://youtu.be/nJVkwdNm_HY) !?[https://youtu.be/1ljeUscKE9Y](https://youtu.be/1ljeUscKE9Y) !?[https://youtu.be/wWHtcbAnOmQ](https://youtu.be/wWHtcbAnOmQ)
-
-
-* SCOP (http://scop.mrc-lmb.cam.ac.uk/scop/)
-
-  Class, Fold, Superfamily, Family
-  The human hemoglobin protein (1HHO-A), is a domain classfied by SCOP as the following.
-  Class: all helical proteins; fold: globin-like; superfamily: globin-like; and family: globins.
-  
-!?[https://youtu.be/Wz6Ugn7BZjg](https://youtu.be/Wz6Ugn7BZjg)
-
-* CATH (http://www.cathdb.info/)
-  class (equivalent to SCOP class), architecture, topology (equivalent to SCOP fold), and homologous superfamily (equivalent to SCOP superfamily).
-  1HHO-A is a domain classied by CATH as the following.
-  Class: mainly helical; architecture: orthogonal bundle; topology: globin-like; and superfamily: globins.
-
-!?[https://youtu.be/mb898MT3eLc](https://youtu.be/mb898MT3eLc)
-
-## Similarity searches based on 3D structure
-
-Similarity on structural level: aligning 3D structures
-
-Structure of query protein is known and aligned to PDB structures
-
-- [Foldseek](https://search.foldseek.com/search) - preferred method
-- [DALI](http://ekhidna.biocenter.helsinki.fi/dali_server/)
-- [VAST+](https://www.ncbi.nlm.nih.gov/Structure/vastplus/vastplus.cgi)
-
-Further reading:
-
-!?[Presentation by Martin Steinegger about FoldSeek](https://www.youtube.com/watch?v=k5Rbi22TtOA)
-
-
-Compare proteins with low sequence similarity: similar structure implies homology -> same function
-
-## Exercise 4: Use FoldSeek to find similar structures from distinct organisms
-
-Imagine that we would like to find out whether there are similar structures of the MEAK7 protein from human in proteome from S. pombe.
-
-Usually, we would start with doing a BLAST using Uniprot and limit the search space to the proteome from S. pombe. 
-
-How many hits do you find and is there any useful hit?
-
-Alternatively, we can use FoldSeek to find similar 3D structures.
-
-How would you find out what structural information is available about MEAK7?
-
-Execute a search in FoldSeek using restriction on the search space for the PDB and AlphaFoldDB.
-
-Did you find anything interesting from this search?
 
 ## Structure Alignment
 
@@ -714,7 +656,7 @@ Different algorithms use different combinations of sequence- and secondary of te
 - [MUSTANG](http://lcb.infotech.monash.edu.au/mustang/mustang_psfb-final.pdf)
 - [MMLigner](https://doi.org/10.1093/bioinformatics/btw757)
 
-## Exercise 5: Compare Structures
+## Exercise 4: Compare Structures
 
 - Download the five provided PDB files and open them in ChimeraX.
 
@@ -787,6 +729,66 @@ where R is the distance between two structurally equivalent atom pairs (CA in ou
 
 </details>
 
+## Protein folds are the structures of domains
+
+- Similarities in assembly of secondary structure elements
+
+- So not based on sequence like motifs but on 3D structure
+
+- Folds represent the shapes of protein domains
+
+!?[https://youtu.be/nJVkwdNm_HY](https://youtu.be/nJVkwdNm_HY) !?[https://youtu.be/1ljeUscKE9Y](https://youtu.be/1ljeUscKE9Y) !?[https://youtu.be/wWHtcbAnOmQ](https://youtu.be/wWHtcbAnOmQ)
+
+
+* SCOP (http://scop.mrc-lmb.cam.ac.uk/scop/)
+
+  Class, Fold, Superfamily, Family
+  The human hemoglobin protein (1HHO-A), is a domain classfied by SCOP as the following.
+  Class: all helical proteins; fold: globin-like; superfamily: globin-like; and family: globins.
+  
+!?[https://youtu.be/Wz6Ugn7BZjg](https://youtu.be/Wz6Ugn7BZjg)
+
+* CATH (http://www.cathdb.info/)
+  class (equivalent to SCOP class), architecture, topology (equivalent to SCOP fold), and homologous superfamily (equivalent to SCOP superfamily).
+  1HHO-A is a domain classied by CATH as the following.
+  Class: mainly helical; architecture: orthogonal bundle; topology: globin-like; and superfamily: globins.
+
+!?[https://youtu.be/mb898MT3eLc](https://youtu.be/mb898MT3eLc)
+
+## Similarity searches based on 3D structure
+
+Similarity on structural level: aligning 3D structures
+
+Structure of query protein is known and aligned to PDB structures
+
+- [Foldseek](https://search.foldseek.com/search) - preferred method
+- [DALI](http://ekhidna.biocenter.helsinki.fi/dali_server/)
+- [VAST+](https://www.ncbi.nlm.nih.gov/Structure/vastplus/vastplus.cgi)
+
+Further reading:
+
+!?[Presentation by Martin Steinegger about FoldSeek](https://www.youtube.com/watch?v=k5Rbi22TtOA)
+
+
+Compare proteins with low sequence similarity: similar structure implies homology -> same function
+
+## Exercise 5: Use FoldSeek to find similar structures from distinct organisms
+
+Imagine that we would like to find out whether there are similar structures of the human MEAK7 protein in the proteome of S. pombe.
+
+Usually, we would start with doing a BLAST using Uniprot and limit the search space to the proteome from S. pombe. 
+
+How many hits do you find and is there any useful hit?
+
+Alternatively, we can use FoldSeek to find similar 3D structures.
+
+How would you find out what structural information is available about MEAK7?
+
+Execute a search in FoldSeek using restriction on the search space for the PDB and AlphaFoldDB.
+
+Did you find anything interesting from this search?
+
+
 ## PDB File Surprises
 
 - Missing atoms, residues and loops  
@@ -839,7 +841,7 @@ Applications include the optimisation of structures, the calculation of the stab
 
 [FoldX](https://dx.doi.org/10.1093%2Fnar%2Fgki387)
 
-## Exercise 6: Model a Mutation
+## Exercise 6: Model a Mutation using ChimeraX
 
 - Load the PDB entry 2AC0.
 - Set an appropriate structure representation.
@@ -885,18 +887,7 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 - Switch to the donphan debug cluster by executing `module swap cluster/donphan`
 - Run the deep screen by executing `sbatch mutatex-run.pbs`
 - Wait for max 40 min
-- Create a heatmap of the results in the analysis folder 
-
-      {{1}}
-*******
-
-```
-swapaa #6.2:159 trp log true
-```
-Additional exercise: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1304567/
-Further reading: https://dasher.wustl.edu/chem430/software/chimera/users-guide.pdf
-
-********
+- Create a heatmap of the results in the analysis folder.
 
 
 ## Exercise 8: Study Protein-Ligand Interactions
