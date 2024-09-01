@@ -32,9 +32,9 @@ link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vi
 # Protein Structure Analysis and Visualisation
 
 <section>
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our Protein Structure Analysis workshop! We are very happy to have you here.
 
-This is the @edition edition of this VIB workshop.
+This is the 5th edition of this VIB workshop.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -46,7 +46,7 @@ This is the @edition edition of this VIB workshop.
 ### Lesson overview
 
 > <i class="fa fa-bookmark"></i> **Description**  
-> This course consist of short tutorials related to current state of art using Neuropixels technology following with our interactive hands-on course about how to visualize electrophysiological data.
+> We will explore and search in online databases containing protein structure information including models from AlphaFoldDB. Furthermore, we will visualize protein structures using ChimeraX. Different hands-on exercises will allow you to compare the structure of homologues. Using MutateX, we will execute a deep mutational screen using the HPC infrastructure. Lastly, we will use (online) tools to identify various interactions in protein structures.
 
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
@@ -56,10 +56,10 @@ This is the @edition edition of this VIB workshop.
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Understand Nextflow's basic concepts & syntax: channels, processes, modules, workflows, etc.
-> 2. Execute local and publicly available pipelines with different executors and environments
-> 3. Write and run Nextflow pipelines
-> 4.Write and modify config files for storing parameters related to computing hardware as well as pipeline dependent parameters
+> 1. Display protein structure data and compare structures, through the use of ChimeraX.
+> 2. Create high-quality graphical representations of the structures
+> 3. Use FoldSeek to search for similar 3D structures
+> 4. Use MutateX on the HPC to study effects of protein mutations
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
@@ -74,9 +74,9 @@ This is the @edition edition of this VIB workshop.
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 >
 >  1. [Exercises and solutions](https://github.com/vibbits/protein-structure-analysis)
->  2. [Slides]()  
+>  2. [Slides](https://liascript.github.io/course?https://raw.githubusercontent.com/vibbits/protein-structure-analysis/main/psa-presentation.md))  
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Installations section below.
 >
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -111,11 +111,11 @@ Schedule day 1:
 
 - 9:30 - 11:00 - Introduction and getting to know ChimeraX (I)
 - 11:00 - 11:15 - break
-- 11:15 - 12:45 - getting to know ChimeraX (II)
+- 11:15 - 12:45 - Structural Alignment, Protein Folds and FoldSeek
 - 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - Computational mutagenesis tool MutateX
+- 13:45 - 15:15 - Force Fields and Computational mutagenesis tool MutateX
 - 15:15 - 15:30 - break
-- 15:30 - 17:00 - FoldSeek
+- 15:30 - 17:00 - Protein-Ligand Interactions
 
 ## Installations
 
@@ -124,7 +124,7 @@ Please read this page carefully **before** the start of the workshop.
 There are two options for following this workshop:
 
   1. [Download ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
-  2. <>
+  2. Have a text editor installed (maybe you already have one)Suggestion: [VScode](https://code.visualstudio.com/download) , [Sublime text](https://www.sublimetext.com/3),  [Emacs](https://www.gnu.org/software/emacs/download.html) (I personaly use VSCode, if you don’t have one that you are used to, I suggest this one)
 
 ### Provided infrastructure
 
