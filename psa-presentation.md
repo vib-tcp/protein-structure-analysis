@@ -880,7 +880,7 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 - Change the directory by `cd protein-structure-analysis`
 - Switch to the donphan debug cluster by executing `module swap cluster/donphan`
 - Run the deep screen by executing `sbatch mutatex-run.pbs`
-- Wait for max 30 min
+- Wait for max 40 min
 - Create a heatmap of the results in the analysis folder 
 
       {{1}}
