@@ -22,7 +22,7 @@ link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/im
 link:     https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
 link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
-link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
+link:     style.css
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
