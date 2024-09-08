@@ -39,7 +39,7 @@ link:     style.css
 
 ## Amino acids and peptide structure
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/amino-acids.png)<!-- width="100%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/amino-acids.png)<!-- width="100%" -->
 
 !?[Proteins are polypeptides of aminoacids](https://www.youtube.com/watch?v=iBV67yamqlA&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=20)
 
@@ -48,7 +48,7 @@ link:     style.css
 - Folded proteins provide a well-defined 3D arrangement of functional groups, creating microenvironments and active sites.
 - Structural changes are often involved in functional  mechanisms  (motor proteins, ...)
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/hemoglobin.png)<!-- height="600px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/hemoglobin.png)<!-- height="600px" -->
 
 !?[](https://www.youtube.com/watch?v=E6LHoKe-zRU&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=13)
 !?[](https://www.youtube.com/watch?v=CViLhxiPq1k&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=18)
@@ -60,7 +60,7 @@ link:     style.css
 
 [**Uniprot**](https://www.uniprot.org/) approx. 570,000 curated sequences (SwissProt)
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/uniprot-logo.png)<!-- width="50%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/uniprot-logo.png)<!-- width="50%" -->
 
 - mainly determined by large-scale DNA sequencing of individual genes or whole genomes
 
@@ -72,7 +72,7 @@ link:     style.css
 *********************
 [http://www.wwpdb.org](http://www.wwpdb.org)
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/wwpdb-welcome-page.png)<!-- width="70%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/wwpdb-welcome-page.png)<!-- width="70%" -->
 
 *******************
 
@@ -81,7 +81,7 @@ link:     style.css
 
 [**Protein Data Bank**](http://www.wwpdb.org) approx. 208,000 experimentally determined structures
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/pdb-logo.png)<!-- width="50%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/pdb-logo.png)<!-- width="50%" -->
 
 - Mainly determined by X-ray crystallography, electron microscopy and recently lesser high-resolution NMR spectroscopy
 - Automation is increasing, but there are still significant limitations in the rate of solving new structures
@@ -253,7 +253,7 @@ Additional exercises on searching PDB can be found on the [basic bioinformatics 
                           {{0-1}}
 ******************
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/pdb-file-format.png)<!-- height="600px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/pdb-file-format.png)<!-- height="600px" -->
 
 ******************
 
@@ -412,7 +412,7 @@ _citation.pdbx_database_id_DOI      ?
 
 ## Occupancy
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/occupancy.png)<!-- width="750px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/occupancy.png)<!-- width="750px" -->
 
 [^1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/dealing-with-coordinates)
 
@@ -1199,7 +1199,7 @@ This exports the object as a temporary PDB file,  starts FoldX with the appropri
 
                      {{0-1}}
 *********************
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/xray-tech-setup.png)<!-- width="100%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/xray-tech-setup.png)<!-- width="100%" -->
 
 ![](https://www.youtube.com/watch?v=4HZoDjJ4A2k Lecture 01, concept 18: Protein structure determination - X-ray crystallography & Cryo-EM)
 *******************
@@ -1212,7 +1212,7 @@ When exposed  to an X-ray beam, this  arrangement gives rise to diffracted rays 
 *******************
 
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/diffraction-pattern.png)<!-- width="50%" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/diffraction-pattern.png)<!-- width="50%" -->
 
 *******************
 
@@ -1230,7 +1230,7 @@ When exposed  to an X-ray beam, this  arrangement gives rise to diffracted rays 
                  {{0}}
 ************************************************
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/nmr-peaks-to-structure.png)<!-- height="307px"-->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/nmr-peaks-to-structure.png)<!-- height="307px"-->
 
 ************************************************
 
@@ -1243,7 +1243,7 @@ Many atomic nuclei, including the ubiquitous hydrogen nuclei,  resonate at speci
                  {{0}}
 ************************************************
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/nmr-noe.jpg)<!-- height="600px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/nmr-noe.jpg)<!-- height="600px" -->
 
 ************************************************
 
@@ -1252,7 +1252,7 @@ When two atoms are near each other in 3D space, they can exchange magnetization,
 
 ************************************************
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/nmr-model-example.png)<!-- height="600px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/nmr-model-example.png)<!-- height="600px" -->
 
 ************************************************
 
@@ -1264,7 +1264,7 @@ After identification of the atoms by means of their unique chemical shifts, dist
 - Electron microscopy (and especially Cryo-electron microscopy): Electron crystallography and single particle reconstruction
 - Small-angle X-ray and neutron scattering (SAXS and SANS)
 
-![](https://material.bits.vib.be/topics/protein-structure-analysis/images/saxs.png)<!-- height="600px" -->
+![](https://github.com/vibbits/training-material/blob/master/topics/protein-structure-analysis/images/saxs.png)<!-- height="600px" -->
 
 ### Example tutorials
 
