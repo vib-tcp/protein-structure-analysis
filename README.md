@@ -82,16 +82,16 @@ This is the 5th edition of this VIB workshop.
 >
 > * [VIB](https://www.vib.be/)
 >
-> <i class="fa fa-anchor"></i> **PURL**:  
+> <i class="fa fa-anchor"></i> **PURL**: to be done
 
 ### Authors
 
-@[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233)
+Alexander Botzki @[orcid](https://orcid.org/0000-0001-6691-4233)
 
 ### Contributors
 
 Joost van Durme
-@[orcid(Janick Mathys)](https://orcid.org/0009-0007-1722-2370),
+Janick Mathys @[orcid](https://orcid.org/0009-0007-1722-2370),
 
 </section>
 
@@ -204,14 +204,13 @@ You are free to connect to the cluster however you want, but the above 2 methods
 
 Please cite as:
 
-  1. ...
+  1. to be added
 
 ## References
 
 Here are some great tips for learning and to get inspired for other protein structure analysis tasks:
 
 -  [Tutorial by ChimeraX](https://www.rbvi.ucsf.edu/chimerax/tutorials.html)
--  []
 
 --------------------------------------------
 
@@ -235,7 +234,7 @@ The goal of VIB Technology Training is to up-skill life scientists to excel in t
 
 *Editorial team for this course*
 
-Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
+Authors: Alexander Botzki @[orcid](https://orcid.org/0000-0001-6691-4233)
 
 Technical Editors: Alexander Botzki
 
