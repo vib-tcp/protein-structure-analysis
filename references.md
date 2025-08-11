@@ -7,5 +7,18 @@
 
 2. create list of mutations
 - for StaB-ddG - check reference: https://github.com/LDeng0205/StaB-ddG?tab=readme-ov-file#predicting-delta-delta-g-for-a-list-of-mutants
-- rename PDB (numbering starts at 1)
+- rename PDB (numbering starts at 1): Tools | Structure Editing | Renumber Sequences
+- create a file with two columns `#Pdb` and `mutation`
+- first column: 1JU5_A_B
+
+Alphabet: 
+
+>mutations.csv
+#Pdb,mutation
+1JU5_A_B,KA11A
+1JU5_A_B,KA11M
+1JU5_A_B,NA10A
+...
+
+
 
