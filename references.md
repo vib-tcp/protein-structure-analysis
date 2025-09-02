@@ -22,4 +22,30 @@ Alphabet:
 ...
 
 
+## topics
 
+0. docking
+
+[medchem prep ChimeraX](https://www.youtube.com/watch?v=iZPDRLH9W2U)
+[steps medchem prep ChimeraX](https://www.dropbox.com/scl/fi/2e1b7mi0ay3jyb9yydzp0/ChimeraX.pdf?rlkey=z0jqxvsizslfg9j95qi0bv1ht&e=1&dl=0)
+
+1. transmembrane proteins
+[paper TMVisDB](https://www.sciencedirect.com/science/article/pii/S0022283625000634#da005)
+[URL TMVisDB](https://tmvisdb.rostlab.org/)
+
+2. design of protein binder of targets
+
+
+3. surface influenza neuraminidase
+
+
+4. 
+[](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1616328/full)
+
+1. small molecule molecular docking – heb ik ervaring van vroeger en kan ik zeker enkele tips en tricks geven
+2. transmembrane proteins : recente publicatie die o.a. AlphaFoldDB gebruikt -> https://tmvisdb.rostlab.org/
+3. antigenic changes at surface of influenza neuraminidase -> kunnen we X-ray structuren via ChimeraX visualiseren.
+4. TCR-pMHC interactions -> recent papers: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00298 and https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1616328/full
+5. ATG9A - https://www.nature.com/articles/s41594-024-01376-6
+6. RiPPs - https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(25)00080-5
+ 
