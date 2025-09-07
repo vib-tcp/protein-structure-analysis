@@ -893,14 +893,28 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 
 ## Molecular docking considerations
 
+### 
 ![](img/bi930389.f1.gif)
 [^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
 
+### 
 ![](img/bi930389.f2.gif)
 [^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
 
+### 
 ![](img/bi930389.f4.gif)
 [^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+### Tools for Docking and Ligand Preparation
+
+Docking 
+
+![](img/journal.pcbi.1013030.t001.png)
+
+Ligand Preparation
+
+![](img/journal.pcbi.1013030.t002.png)
+
 
 ## Exercise 8: Study Protein-Ligand Interactions
 
