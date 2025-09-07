@@ -25,9 +25,11 @@ link:     style.css
 - Sequences, structures and databases
 - Experimental methods (X-rays, electrons and NMR)
 - Finding and visualising structures from the  Protein Data Bank
-- Comparing structures
-- Modelling mutations
-- Creating models
+- Comparing structures by structural alignment
+- Modelling mutations with MutateX
+- Molecular Docking considerations
+- Various exercises about structural exploration
+- Creating models (tomorrow's session)
 
 ## Sequences and Structures
 
