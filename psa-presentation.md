@@ -889,6 +889,16 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 - Wait for max 40 min
 - Create a heatmap of the results in the analysis folder.
 
+## Molecular docking considerations
+
+![](img/bi930389.f1.gif)
+[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+![](img/bi930389.f2.gif)
+[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+![](img/bi930389.f4.gif)
+[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
 
 ## Exercise 8: Study Protein-Ligand Interactions
 
