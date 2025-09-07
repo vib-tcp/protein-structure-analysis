@@ -21,6 +21,9 @@ Alphabet:
 1JU5_A_B,NA10A
 ...
 
+## exercises
+
+Foldseek: https://pubmed.ncbi.nlm.nih.gov/36408459/
 
 ## topics
 
