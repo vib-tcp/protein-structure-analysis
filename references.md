@@ -32,6 +32,10 @@ Foldseek: https://pubmed.ncbi.nlm.nih.gov/36408459/
 [medchem prep ChimeraX](https://www.youtube.com/watch?v=iZPDRLH9W2U)
 [steps medchem prep ChimeraX](https://www.dropbox.com/scl/fi/2e1b7mi0ay3jyb9yydzp0/ChimeraX.pdf?rlkey=z0jqxvsizslfg9j95qi0bv1ht&e=1&dl=0)
 
+[The Art and Science of Molecular Docking](https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-030222-120000)
+[Ten tips and tricks for molecular docking](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013030)
+[Comparative analysis of virtual screening approaches](https://doi.org/10.1038/s42256-025-00993-0) (paywall)
+
 1. transmembrane proteins
 [paper TMVisDB](https://www.sciencedirect.com/science/article/pii/S0022283625000634#da005)
 [URL TMVisDB](https://tmvisdb.rostlab.org/)
@@ -45,7 +49,7 @@ Foldseek: https://pubmed.ncbi.nlm.nih.gov/36408459/
 4. 
 [](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1616328/full)
 
-1. small molecule molecular docking – heb ik ervaring van vroeger en kan ik zeker enkele tips en tricks geven
+1. small molecule molecular docking – 
 2. transmembrane proteins : recente publicatie die o.a. AlphaFoldDB gebruikt -> https://tmvisdb.rostlab.org/
 3. antigenic changes at surface of influenza neuraminidase -> kunnen we X-ray structuren via ChimeraX visualiseren.
 4. TCR-pMHC interactions -> recent papers: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00298 and https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1616328/full
