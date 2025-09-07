@@ -1,8 +1,8 @@
 <!--
 
 author:   Alexander Botzki
-email:    training@vib.de
-version:  1.0.0
+email:    vibtrainingandconferences@vib.de
+version:  1.1.0
 language: en
 narrator: UK English Female
 
@@ -27,14 +27,14 @@ link:     style.css
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 @tutor: course placeholder
-@edition: 5th -->
+@edition: 6th -->
 
 # Protein Structure Analysis and Visualisation
 
 <section>
 Hello and welcome to our Protein Structure Analysis workshop! We are very happy to have you here.
 
-This is the 5th edition of this VIB workshop.
+This is the 6th edition of this VIB workshop.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -101,7 +101,7 @@ Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
 
 This is the {{workshop_edition}} edition of this workshop.
 
-- The fifth session (2nd September 2024) is dedicated to Protein Structure Analysis and Visualisation.
+- The six session (8th September 2025) is dedicated to Protein Structure Analysis and Visualisation.
 
 The presentation which goes alongside this material can be found [here](https://liascript.github.io/course?https://raw.githubusercontent.com/vibbits/protein-structure-analysis/main/psa-presentation.md).
 
