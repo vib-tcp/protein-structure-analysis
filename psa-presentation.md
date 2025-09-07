@@ -896,17 +896,20 @@ For the exercise, we will use the HPC Tier-2 of the UGent. Documentation on how 
 ### Determining the pose of a small molecule
 
 ![](img/bi930389.f1.gif)
-[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+[^1](https://doi.org/10.1146/annurev-biochem-030222-120000)
 
 ### Scoring the pose of a small molecule
 
 ![](img/bi930389.f2.gif)
-[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+[^1](https://doi.org/10.1146/annurev-biochem-030222-120000)
 
 ### A virtual screening approach
 
 ![](img/bi930389.f4.gif)
-[^1]([https://doi.org/10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000))
+
+[^1](https://doi.org/10.1146/annurev-biochem-030222-120000)
 
 ### Tools for Docking and Ligand Preparation
 
