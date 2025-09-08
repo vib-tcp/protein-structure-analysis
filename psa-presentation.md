@@ -429,7 +429,7 @@ Macromolecular crystals are composed of many individual molecules packed into a 
 
 - PDB-REDO: automatically re-refined deposited structures, using the latest methods
 
-  [http://www.cmbi.ru.nl/pdb_redo/](http://www.cmbi.ru.nl/pdb_redo)
+  [https://pdb-redo.eu//](https://pdb-redo.eu/)
 
 - EBI: many online tools for structure analysis
 
@@ -441,7 +441,7 @@ Macromolecular crystals are composed of many individual molecules packed into a 
 
 - BioMagResBank: experimental data for NMR-  derived structures (lists of distance restraints  and other experimentally derived properties)
 
-  [http://www.bmrb.wisc.edu/](http://www.bmrb.wisc.edu/)
+  [https://bmrb.io/](https://bmrb.io/)
 
 - BioIsis: database of SAXS-derived structures
 
